@@ -4,7 +4,7 @@
 
 Ferromone Trails mimics swarm intelligence strategies. As vehicles leave their yards, or their “colonies”, they seek pheromone Signals dropped in the subway by other vehicles. These pheromones direct vehicles to lines and stations according to demand.
 
-Ferromone Trails currently uses strategies used by ant colonies. Future explorations include signaling strategies used by bacterial colonies.
+Ferromone Trails currently includes strategies used by ant colonies. Future explorations include signaling strategies used by bacterial colonies.
 
 ![Train Simulator Screenshot](gh/screenshot.png)
 
