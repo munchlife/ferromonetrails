@@ -1,6 +1,6 @@
 # Stigmergy - Adaptive Subway Vehicle Signaling
 [![Build Status](https://travis-ci.org/sinaa/train-simulator.svg?branch=master)](https://travis-ci.org/sinaa/train-simulator)
-### Ferromone Trails
+### Stigmergy
 
 Stigmergy mimics swarm intelligence technique. As vehicles leave their yards, or their “colonies”, they seek signals dropped in the subway by other vehicles. These signals direct vehicles to lines and stations according to demand.
 
