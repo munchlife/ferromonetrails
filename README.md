@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/sinaa/train-simulator.svg?branch=master)](https://travis-ci.org/sinaa/train-simulator)
 ### Ferromone Trails
 
-Ferromone Trails mimics swarm intelligence strategies. As vehicles leave their yards, or their “colonies”, they seek pheromone Signals dropped in the subway by other vehicles. These pheromones direct vehicles to lines and stations according to demand.
+Ferromone Trails mimics swarm intelligence strategies. As vehicles leave their yards, or their “colonies”, they seek signals dropped in the subway by other vehicles. These signals direct vehicles to lines and stations according to demand.
 
 Ferromone Trails currently includes techniques used by ant colonies. Future explorations include signaling techniques used by bacterial colonies.
 
