@@ -1,10 +1,10 @@
-# Ferromone Trails - Adaptive Subway Vehicle Signaling
+# Stigmergy - Adaptive Subway Vehicle Signaling
 [![Build Status](https://travis-ci.org/sinaa/train-simulator.svg?branch=master)](https://travis-ci.org/sinaa/train-simulator)
 ### Ferromone Trails
 
-Ferromone Trails mimics swarm intelligence strategies. As vehicles leave their yards, or their “colonies”, they seek signals dropped in the subway by other vehicles. These signals direct vehicles to lines and stations according to demand.
+Stigmergy mimics swarm intelligence technique. As vehicles leave their yards, or their “colonies”, they seek signals dropped in the subway by other vehicles. These signals direct vehicles to lines and stations according to demand.
 
-Ferromone Trails currently includes techniques used by ant colonies. Future explorations include signaling techniques used by bacterial colonies.
+Stigmergy currently includes ant colony signaling technique. Future exploration includes bacterial colony signaling technique.
 
 ![Train Simulator Screenshot](gh/screenshot.png)
 
