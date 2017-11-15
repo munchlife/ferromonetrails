@@ -1,8 +1,10 @@
-# Train Simulator - Decentralised Self-Driving Trains
+# Ferromone Trails - Adaptive Subway Vehicle Signaling
 [![Build Status](https://travis-ci.org/sinaa/train-simulator.svg?branch=master)](https://travis-ci.org/sinaa/train-simulator)
-### Ferromone Trails Concept
+### Ferromone Trails
 
-Ferromone Trails is a concept of using the existing train infrastructure such that trains can self-organise safely, without having to rely on a centralised network. This project is a Java-based simulator created from scratch which was built to investigate the feasibility of this concept. The concept is modeled after ant-colony algorithms, where pheromone trails are used for organisation and navigation.
+Ferromone Trails mimics swarm intelligence strategies. As vehicles leave their yards, or their “colonies”, they seek pheromone Signals dropped in the subway by other vehicles. These pheromones direct vehicles to lines and stations according to demand.
+
+Ferromone Trails currently uses strategies used by ant colonies. Future explorations include signaling strategies used by bacterial colonies.
 
 ![Train Simulator Screenshot](gh/screenshot.png)
 
